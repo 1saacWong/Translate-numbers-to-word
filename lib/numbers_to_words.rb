@@ -1,4 +1,8 @@
 require 'pry'
+
+# I tried to separate long numbers into parts of 3, e.g: |10|987|654|321|
+
+
 class String
   $result = []
   $ten = false
